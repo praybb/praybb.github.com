@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## 欢迎来到天祈的代码库
 
-You can use the [editor on GitHub](https://github.com/praybb/praybb.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到我的代码库,我想你在这里得不到你想要的代码!这里完全为私人代码库!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 联糸方式
+微信:
+博客地址:[https://www.cnblogs.com/praybb/](https://www.cnblogs.com/praybb/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
