@@ -2,36 +2,12 @@
 
 欢迎来到我的代码库,我想你在这里得不到你想要的代码!这里完全为私人代码库!
 
-### 联糸方式
-微信:
+### 相关连接
 博客地址:[https://www.cnblogs.com/praybb/](https://www.cnblogs.com/praybb/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+项目代码:[https://github.com/praybb/](https://github.com/praybb/)
 
-```markdown
-Syntax highlighted code block
+###联系方式
+E-mail: acute0753@126.com (0.-别发广告谢谢)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/praybb/praybb.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
